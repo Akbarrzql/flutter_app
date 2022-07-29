@@ -1,6 +1,6 @@
 # flutter_tugas
 
-A new Flutter project.
+A new Flutter project Register.
 
 ## Getting Started
 
